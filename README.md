@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hola, soy Alan Romero
 
-<!--
-**alanlopezromero/alanlopezromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de software
+🚀 Apasionado por la tecnología, la programación y seguir aprendiendo
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mí
+
+* 🔭 Actualmente estoy trabajando en proyectos personales
+* 🌱 Estoy aprendiendo más sobre desarrollo backend y Java
+* 🤝 Busco colaborar en proyectos de software
+* ⚡ Me interesa la cetrería y tecnología
+
+---
+
+### 🛠️ Tecnologías
+
+* 💻 Java / Python / JavaScript
+* 🌐 HTML / CSS
+* 🛢️ MySQL
+* ⚙️ Git & GitHub
+
+---
+
+### 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanlopezromero\&show_icons=true\&theme=tokyonight)
+
+---
+
+### 📫 Contacto
+
+* 📧 Email: [tucorreo@email.com](alopezromero192@gmail.com)
+
+
+---
+
+### ⚡ Frase
+
+> "Siempre aprendiendo algo nuevo 🚀"
+
