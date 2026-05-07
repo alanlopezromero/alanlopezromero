@@ -25,13 +25,13 @@
 
 ### 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanlopezromero\&show_icons=true\&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=alanlopezromero\&show_icons=true\&theme=tokyonight
 
 ---
 
 ### 📫 Contacto
 
-* 📧 Email: [tucorreo@email.com](alopezromero192@gmail.com)
+* 📧 Email: alopezromero192@gmail.com
 
 
 ---
