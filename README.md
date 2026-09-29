@@ -25,9 +25,12 @@
 * **Herramientas:** Git · GitHub
 ### 📜 Certificaciones
 
-- 🏆 **Metodología Scrum**
-  - Certificado en metodología Scrum
-  - 👉 [**Ver certificado**](./certificaciones/Certificado-Scrum-Alan-Romero.pdf)
+### 📜 Certificaciones
+
+* 🏆 Metodología Scrum
+  * Certificado en metodología Scrum
+  * 👉 [**Ver certificado**](./sertificado_scrum.pdf)
+
 ---
 ### 🚀 Proyectos
 
