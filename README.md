@@ -23,7 +23,6 @@
 #### Bases de Datos & Control de Versiones
 * **Bases de Datos:** MySQL . Firebase . MongoDB
 * **Herramientas:** Git · GitHub
-### 📜 Certificaciones
 
 ### 📜 Certificaciones
 
