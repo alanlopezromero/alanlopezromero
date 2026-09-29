@@ -23,7 +23,11 @@
 #### Bases de Datos & Control de Versiones
 * **Bases de Datos:** MySQL . Firebase . MongoDB
 * **Herramientas:** Git · GitHub
+### 📜 Certificaciones
 
+- 🏆 **Metodología Scrum**
+  - Certificado en metodología Scrum
+  - 👉 [**Ver certificado**](./certificaciones/Certificado-Scrum-Alan-Romero.pdf)
 ---
 ### 🚀 Proyectos
 
